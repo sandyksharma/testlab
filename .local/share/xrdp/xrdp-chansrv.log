@@ -1,0 +1,11 @@
+[20200728-13:29:17] [CORE ] main: app started pid 3130(0x00000c3a)
+[20200728-13:32:08] [ERROR] clipboard_event_selection_request: unknown target _VIMENC_TEXT
+[20200728-13:32:08] [ERROR] clipboard_event_selection_request: unknown target _VIM_TEXT
+[20200728-13:33:39] [ERROR] clipboard_event_selection_request: unknown target _VIMENC_TEXT
+[20200728-13:33:39] [ERROR] clipboard_event_selection_request: unknown target _VIM_TEXT
+[20200728-13:37:28] [ERROR] clipboard_event_selection_request: unknown target _VIMENC_TEXT
+[20200728-13:37:28] [ERROR] clipboard_event_selection_request: unknown target _VIM_TEXT
+[20200728-13:38:21] [ERROR] clipboard_event_selection_request: unknown target _VIMENC_TEXT
+[20200728-13:38:21] [ERROR] clipboard_event_selection_request: unknown target _VIM_TEXT
+[20200728-13:39:13] [ERROR] clipboard_event_selection_request: unknown target _VIMENC_TEXT
+[20200728-13:39:13] [ERROR] clipboard_event_selection_request: unknown target _VIM_TEXT
